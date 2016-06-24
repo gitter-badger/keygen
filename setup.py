@@ -18,7 +18,7 @@ setup(
     name='keygen',
 
 
-    version='2016.1',
+    version='2016.2',
 
     description='key generator',
     long_description=long_description,
