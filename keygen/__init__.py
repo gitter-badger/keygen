@@ -27,5 +27,5 @@ def small():
     let2 = random.choice(rp2)
     let3 = random.choice(rp3)
     let4 = random.choice(rp4)
-    code = str(rp1) + str(rp3) + str(rp4) + str(rp2)
+    code = str(let1) + str(let3) + str(let4) + str(let2)
     return code
